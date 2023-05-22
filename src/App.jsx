@@ -1,8 +1,12 @@
 import React from 'react'
+import Wrapper from './components/wrapper/Wrapper'
+import './App.scss'
 
 const App = () => {
   return (
-    <><h1>Hey React</h1></>
+    <>
+    <Wrapper/>
+    </>
   )
 }
 
