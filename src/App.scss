@@ -157,3 +157,24 @@ img {
   display: inline-flex;
   align-items: center;
 }
+
+// for large devices
+
+@media screen and (max-width: 992px) {
+  .container {
+    margin-left: var(--mb-1-5);
+    margin-right: var(--mb-1-5);
+  }
+}
+
+// for medium devices
+
+@media script and (max-width: 768px) {
+}
+
+@media screen and (max-width: 576px) {
+}
+//for small devices
+
+@media screen and (max-width: 350px) {
+}
