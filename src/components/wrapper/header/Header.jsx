@@ -29,7 +29,7 @@ const Header = () => {
               </li>
               <li className="nav__item">
                 <a href="#skills" className="nav__link">
-                  <img className="uil scss.nav__icon}"></img>Skills
+                  <img className="uil nav__icon}"></img>Skills
                 </a>
               </li>
               <li className="nav__item">
